@@ -1,0 +1,10 @@
+../Core/Src/PCA9685.c:5:26:PCA9685_ReadRegister	3
+../Core/Src/PCA9685.c:27:26:PCA9685_WriteRegister	2
+../Core/Src/PCA9685.c:49:26:PCA9685_SetBit	4
+../Core/Src/PCA9685.c:88:19:PCA9685_IsReady	2
+../Core/Src/PCA9685.c:101:19:PCA9685_SetPWMFrequency	9
+../Core/Src/PCA9685.c:212:19:PCA9685_Init	4
+../Core/Src/PCA9685.c:259:19:PCA9685_SetPWM	5
+../Core/Src/PCA9685.c:334:19:PCA9685_SetServoPulse	2
+../Core/Src/PCA9685.c:384:19:PCA9685_SetServoAngleCalibrated	4
+../Core/Src/PCA9685.c:440:19:PCA9685_SetServoAngle	1
